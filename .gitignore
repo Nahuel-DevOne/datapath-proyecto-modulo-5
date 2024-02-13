@@ -1,0 +1,6 @@
+venv
+test.csv
+train.csv
+model_test.pkl
+scaler_test.pkl
+predictions.csv
